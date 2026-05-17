@@ -12,6 +12,9 @@ I am MCA (AI & ML) student at Ramdeobaba University Nagpur(RBU), currently learn
 - MongoDB
 - MySQL
 
+## 🛠 Technical Skills
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,react,nodejs,mongodb,mysql,git)](https://skillicons.dev)
 ## 📫 Connect With Me
 - LinkedIn: ChetanKhadse906
 - Email: chetankhadse906@gmail.com
