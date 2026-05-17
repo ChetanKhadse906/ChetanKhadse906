@@ -7,8 +7,8 @@ I am MCA (AI & ML) student at Ramdeobaba University Nagpur(RBU), currently learn
 ## 🛠 Technical Skills
 
 Programming Languages
-- Java  https://skillicons.dev/icons?i=java
-- Python  https://skillicons.dev/icons?i=python
+- Java (https://skillicons.dev/icons?i=java)(https://skillicons.dev)
+- Python   (https://skillicons.dev/icons?i=python)](https://skillicons.dev)
   
 - HTML
 - CSS
