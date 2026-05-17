@@ -5,8 +5,11 @@
 I am MCA (AI & ML) student at Ramdeobaba University Nagpur(RBU), currently learning MERN Stack and DSA to improve my problem-solving and algorithmic thinking skills. I am passionate about software development and interested in applying my knowledge to solve real-world problems.
 
 ## 🛠 Technical Skills
-- Java
-- Python
+
+Programming Languages
+- Java  https://skillicons.dev/icons?i=java
+- Python  https://skillicons.dev/icons?i=python
+  
 - HTML
 - CSS
 - MongoDB
