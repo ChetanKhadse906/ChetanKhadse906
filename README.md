@@ -5,12 +5,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hello! I'm Chetan Khadse
+
+## 🚀 About Me
+- MCA (AI & ML) Student
+- Learning DSA and MERN Stack
+- Passionate about Software Development
+
+## 🛠 Technical Skills
+- Java
+- JavaScript
+- React
+- Node.js
+- MongoDB
+- MySQL
