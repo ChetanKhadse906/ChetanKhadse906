@@ -4,20 +4,28 @@
 ## 🚀 About Me
 I am MCA (AI & ML) student at Ramdeobaba University Nagpur(RBU), currently learning MERN Stack and DSA to improve my problem-solving and algorithmic thinking skills. I am passionate about software development and interested in applying my knowledge to solve real-world problems.
 
-## 🛠 Technical Skills
+## 🛠️ Technical Skills
 
-Programming Languages
-- Java (https://skillicons.dev/icons?i=java)(https://skillicons.dev)
-- Python   (https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-  
-- HTML
-- CSS
-- MongoDB
-- MySQL
+### Programming Languages
 
-## 🛠 Technical Skills
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,react,nodejs,mongodb,mysql,git)](https://skillicons.dev)
+---
+
+### Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 ## 📫 Connect With Me
 - LinkedIn: ChetanKhadse906
 - Email: chetankhadse906@gmail.com
