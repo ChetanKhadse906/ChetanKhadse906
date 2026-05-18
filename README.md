@@ -27,8 +27,9 @@ I am MCA (AI & ML) student at Ramdeobaba University Nagpur(RBU), currently learn
 
 
 ## 📫 Connect With Me
-- LinkedIn: ChetanKhadse906
-- Email: chetankhadse906@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/chetan-khadse-9367432ab/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/ChetanKhadse906)
 
 <!--
 **ChetanKhadse906/ChetanKhadse906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
