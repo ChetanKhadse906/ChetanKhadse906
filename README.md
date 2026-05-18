@@ -28,8 +28,9 @@ I am MCA (AI & ML) student at Ramdeobaba University Nagpur(RBU), currently learn
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chetan-khadse-9367432ab/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/ChetanKhadse906)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-khadse-9367432ab/)
+[![GitHub](https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChetanKhadse906)
+
 
 <!--
 **ChetanKhadse906/ChetanKhadse906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
