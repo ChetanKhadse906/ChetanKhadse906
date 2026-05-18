@@ -1,10 +1,10 @@
 
 # 👋 Hello! I'm Chetan G Khadse
 
-## 🚀 About Me
+## About Me
 I am MCA (AI & ML) student at Ramdeobaba University Nagpur(RBU), currently learning MERN Stack and DSA to improve my problem-solving and algorithmic thinking skills. I am passionate about software development and interested in applying my knowledge to solve real-world problems.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming Languages
 
@@ -26,7 +26,7 @@ I am MCA (AI & ML) student at Ramdeobaba University Nagpur(RBU), currently learn
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-khadse-9367432ab/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChetanKhadse906)
