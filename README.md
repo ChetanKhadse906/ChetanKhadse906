@@ -28,7 +28,9 @@ I am MCA (AI & ML) student at Ramdeobaba University Nagpur(RBU), currently learn
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-khadse-9367432ab/)
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-khadse-9367432ab/K/)
 [![GitHub](https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChetanKhadse906)
 
 
