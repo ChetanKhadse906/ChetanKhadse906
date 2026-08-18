@@ -2,7 +2,8 @@
 # 👋 Hello! I'm Chetan G Khadse
 
 ## About Me
-I am MCA (AI & ML) student at Ramdeobaba University Nagpur(RBU), currently learning MERN Stack and DSA to improve my problem-solving and algorithmic thinking skills. I am passionate about software development and interested in applying my knowledge to solve real-world problems.
+I am Chetan Gunvantarao Khadse an MCA (AI & ML) student at Ramdeobaba University Nagpur (RBU), currently focused on learning the MERN Stack and DSA to strengthen my problem-solving, logical thinking, and algorithmic skills. I am passionate about software development, particularly backend development, and interested in building scalable, efficient, and reliable backend systems using Node.js, Express.js, and MongoDB. I enjoy designing RESTful APIs, working with databases, implementing authentication, and understanding how applications work behind the scenes. I am continuously improving my development skills by building real-world projects and applying my knowledge to solve practical problems.
+
 
 ## Technical Skills
 ### Programming Languages
